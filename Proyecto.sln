@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto.Api", "proyecto.Api\Proyecto.Api.csproj", "{0EFD5EAC-4018-401F-9C73-D53586CD3D4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Api", "proyecto.Api\Hotel.Api.csproj", "{0EFD5EAC-4018-401F-9C73-D53586CD3D4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto.Domain", "Proyecto.Domain\Proyecto.Domain.csproj", "{639E7DE8-B493-4BDD-BF99-C4FA70DBC680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Domain", "Proyecto.Domain\Hotel.Domain.csproj", "{639E7DE8-B493-4BDD-BF99-C4FA70DBC680}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto.Application", "Proyecto.Application\Proyecto.Application.csproj", "{04E82C67-C0FC-4C4E-8A96-63D5108849ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Application", "Proyecto.Application\Hotel.Application.csproj", "{04E82C67-C0FC-4C4E-8A96-63D5108849ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto.IOC", "Proyecto.IOC\Proyecto.IOC.csproj", "{366F6338-AAE3-4104-9BEE-B763C6D4A8D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.IOC", "Proyecto.IOC\Hotel.IOC.csproj", "{366F6338-AAE3-4104-9BEE-B763C6D4A8D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto.Infraestructure", "Proyecto.Infraestructure\Proyecto.Infraestructure.csproj", "{5C374058-27BA-4F4B-9D81-26B930A040C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Infraestructure", "Proyecto.Infraestructure\Hotel.Infraestructure.csproj", "{5C374058-27BA-4F4B-9D81-26B930A040C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto.Web", "Proyecto.Web\Proyecto.Web.csproj", "{AC993EA3-238D-49A6-BA17-1FA8A99E0D83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Web", "Proyecto.Web\Hotel.Web.csproj", "{AC993EA3-238D-49A6-BA17-1FA8A99E0D83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
